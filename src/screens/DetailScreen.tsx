@@ -8,8 +8,6 @@ import {
 } from 'react-native';
 
 import { RootStackParams } from '../navigation/Navigation';
-
-
 import { useMovieDetails } from '../hooks/useMovieDetails';
 import { MovieDetails } from '../components/MovieDetails';
 import Icon from 'react-native-vector-icons/Ionicons';
